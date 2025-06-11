@@ -25,7 +25,7 @@ import EmployeePayroll from './Employee/EmployeePayroll';
 import Leave from './Employee/Leave/LeaveApplication';
 import LeaveManagement from './Admin/LeaveManagement';
 import AdminPayroll from './Admin/Payroll/AdminPayroll';
-import ProjectsPage from './Admin/project/Projectpage';
+import ProjectsPage from './Admin/project/ProjectPage';
 import ProjectDetailPage from './Admin/project/ProjectDetailPage';
 import EmployeesPage from './Admin/Employee/EmployeesPage';
 import UpdatePayroll from './Admin/Payroll/UpdatePayroll';
